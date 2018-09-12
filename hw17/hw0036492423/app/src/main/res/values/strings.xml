@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">android.fer.hr</string>
+    <string name="mathematics">Matematika</string>
+    <string name="statistics">Statistika</string>
+    <string name="addition">Zbrajanje</string>
+    <string name="subtraction">Oduzimanje</string>
+    <string name="multiplication">Množenje</string>
+    <string name="division">Dijeljenje</string>
+    <string name="first_number_input">Unesi prvi broj</string>
+    <string name="second_number_input">Unesi drugi broj</string>
+    <string name="calculate">Izračunaj</string>
+    <string name="ok">OK</string>
+    <string name="send_report">Pošalji izvještaj</string>
+    <string name="input_relative_path">Unesite relativnu putanju</string>
+    <string name="load">Učitaj</string>
+</resources>

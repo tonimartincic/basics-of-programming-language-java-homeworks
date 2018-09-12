@@ -1,0 +1,1 @@
+{$=     i    variable         V_A_R_I_A_B_L_E   $}

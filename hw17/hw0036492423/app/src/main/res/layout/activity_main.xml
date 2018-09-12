@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="hr.fer.android.hw0036492423.MainActivity">
+
+    <Button
+        android:id="@+id/mathematics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/mathematics"
+        android:textColor="@color/colorPrimaryLight"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/statistics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/statistics"
+        android:textColor="@color/colorPrimaryLight"
+        android:textStyle="bold" />
+
+</LinearLayout>

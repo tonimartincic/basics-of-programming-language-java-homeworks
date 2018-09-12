@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="hr.fer.android.hw0036492423.CalculusActivity">
+
+    <RadioGroup
+        android:id="@+id/operations"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:checked="true"
+            android:id="@+id/addition"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/addition"/>
+
+        <RadioButton
+            android:id="@+id/subtraction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/subtraction"/>
+
+        <RadioButton
+            android:id="@+id/multiplication"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/multiplication"/>
+
+        <RadioButton
+            android:id="@+id/division"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/division"/>
+
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/firstInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/first_number_input"
+        android:inputType="number"
+        android:textSize="@dimen/text_size2" />
+
+    <EditText
+        android:id="@+id/secondInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/second_number_input"
+        android:inputType="number"
+        android:textSize="@dimen/text_size2" />
+
+    <Button
+        android:id="@+id/calculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/calculate"
+        android:textColor="@color/colorPrimaryLight"
+        android:textStyle="bold" />
+
+</LinearLayout>

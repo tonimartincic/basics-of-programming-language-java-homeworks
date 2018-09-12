@@ -1,0 +1,8 @@
+Ožujsko	https://nutristo.com/photo/show/1063", pollID, 0);
+Pan	http://www.pan.com.hr/media/1163/boca.png", pollID, 0);
+Karlovačko	https://www.konzum.hr/klik/images/products/031/03130207_1l.jpg?1468316892", pollID, 0);
+Zmajsko pale ale	https://www.konzum.hr/klik/images/products/901/90183384_1l.jpg?1452901739", pollID, 0);
+O'hara's stout	https://boozedancing.files.wordpress.com/2012/11/oharas1.jpg", pollID, 0);
+Duvel	http://www.duvelmoortgat.be/sites/default/files/duvel_packshot_1.png", pollID, 0);
+Paulaner	https://www.paulaner.com/sites/default/files/images/produkte/hwb_glas.png", pollID, 0);
+Erdinger	https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Erdinger-bottle-glass_RMO.jpg/200px-Erdinger-bottle-glass_RMO.jpg
